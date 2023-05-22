@@ -1,7 +1,8 @@
 👋 Hey there, I'm Louka. There's no way to properly pronounce my username, but I like "green is red".
 
 ### What I'm working on
-- [**picoedit**](https://github.com/grnisrd/picoedit), a small, portable, and performant general purpose code/text editor with batteries included.
+- [**lattice**](https://github.com/grnisrd/lattice), an incredibly lightweight C development environment that integrates well into the node ecosystem.
+- [picoedit](https://github.com/grnisrd/picoedit), a small, portable, and performant general purpose code/text editor with batteries included.
 - [durlin](https://github.com/grnisrd/durlin), a statically-typed, domain-specific, procedural, and predictable programming language that defines finite-state machines ([FSMs](https://en.wikipedia.org/wiki/Finite-state_machine)).
 
 ### What I am
