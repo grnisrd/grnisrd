@@ -1,4 +1,6 @@
-👋 Hey there, I'm Louka. There's no way to properly pronounce my username, but I like "green is red".
+👋 Hey there, I'm Louka. I am a software engineer, (cyber)security consultant, web developer, and business manager from Canada.
+
+You may know me for my work at Synapse Softworks LLC, a cybersecurity research and digital rights management (DRM) engineering company based in Orlando, Florida. I oversee operations there, but I also do some work as a web developer and security & business policy consultant.
 
 ### What I'm working on
 - [**lattice**](https://github.com/grnisrd/lattice), an incredibly lightweight C development environment that integrates well into the node ecosystem.
@@ -27,4 +29,4 @@
   - The _Meditations_ by Marcus Aurelius. You can easily find a copy online.
 - Chicken soup. 🐔
 
-You can contact me on Twitter at [@grnisrd](https://twitter.com/grnisrd).
+You can contact me on Twitter at [@mblouka](https://twitter.com/mblouka).
